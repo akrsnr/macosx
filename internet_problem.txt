@@ -1,0 +1,16 @@
+/Library/Preferences/SystemConfiguration/
+
+Locate and select the following files in the SystemConfiguration folder
+
+com.apple.airport.preferences.plist
+com.apple.network.eapolclient.configuration.plist
+com.apple.wifi.message-tracer.plist
+NetworkInterfaces.plist
+preferences.plist
+Copy them to another directory of your own if you want a little manual backup.
+
+Delete them from the SystemConfiguration directory.
+
+Restart macOS in the Apple menu.
+
+The WiFi connection is now working!
