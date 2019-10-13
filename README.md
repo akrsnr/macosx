@@ -1,5 +1,5 @@
 Now that you're here and I got your attention. Feel free to bask in reflected glory of
-`+1 (instant karma)` I'm **ˢᴼᵑᵉᴿ**, still a bachelor student, 24 years old, trying to be engineer of software.
+`+1 (instant karma)` I'm **ˢᴼᵑᵉᴿ**, still a bachelor student, 25 years old, trying to be engineer of software.
 
 > The best of people are those who are most beneficial to people.  ― ***Prophet Muhammad(PBUH)***
 
@@ -73,3 +73,13 @@ You can find your tags [from here][21].
   [19]: https://en.wikipedia.org/wiki/Sentinel_value
   [20]: https://greenteapress.com/wp/semaphores/
   [21]: https://mango-is.com/tools/myTagOverflow/?utm_source=stackOverflow&utm_medium=stackapps-post&utm_campaign=myTagOverflow-beta-release
+  
+  
+  
+  
+  
+  
+  
+  
+  -- http://www.mahonri.info/doc/MahonriListOfRulesForWritingMaintainableCCode.html
+  https://stackoverflow.com/users/3525545/mahonri-moriancumer
